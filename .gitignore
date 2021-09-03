@@ -65,3 +65,6 @@ package-lock.json
 !themes/gatsby-starter-notes-theme/package-lock.json
 !themes/gatsby-starter-theme/package-lock.json
 !themes/gatsby-starter-theme-workspace/package-lock.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
